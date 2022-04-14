@@ -1,7 +1,7 @@
 # Chipmunk_character
 
 ### 다람쥐 캐릭터 구현
-### https://github.com/mandelina/Chipmunk-character/index.html
+###  https://mandelina.github.io/Chipmunk-characters/index.html
 
 <br>
 <br>
